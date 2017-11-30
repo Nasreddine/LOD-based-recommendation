@@ -1,0 +1,556 @@
+Category,LOD Resource (DBpedia resources)
+Accessories,Fashion_accessory
+Accountants,Accountant
+Active Life,Active_living
+Acupuncture,Acupuncture
+Adult,Adult
+African,African_cuisine
+Airlines,Airline
+Airport Lounges,Airport_lounge
+Airport Shuttles,Airport_bus
+Airports,Airport
+Amateur Sports Teams,Amateur_sports
+American (New),New_American_cuisine
+American (Traditional),Cuisine_of_the_United_States
+Amusement Parks,Amusement_park
+Animal Shelters,Animal_shelter
+Antiques,Antique
+Apartments,Apartment
+Appliances,Home_appliance
+Appliances & Repair,Home_appliance
+Appliances & Repair,"Maintenance,_repair,_and_operations"
+Aquarium Services,Aquarium
+Aquariums,Aquarium
+Arcades,Arcade_game
+Architects,Architect
+Art Classes,Art_glass
+Art Galleries,Art_museum
+Art Museums,Art_museum
+Art Supplies,Art
+Art Supplies,Tool
+Arts & Crafts,Craft
+Arts & Crafts,The_arts
+Arts & Entertainment,Entertainment
+Arts & Entertainment,The_arts
+Asian Fusion,Fusion_cuisine
+ATV Rentals/Tours,Renting
+Auto Detailing,Auto_detailing
+Auto Glass Services,Car_glass
+Auto Parts & Supplies,List_of_auto_parts
+Auto Repair,Auto_mechanic
+Automotive,Automotive_industry
+Baby Gear & Furniture,Baby_furniture
+Baby Gear & Furniture,Infant_clothing
+Baby Gear & Furniture,Toy
+Bagels,Bagel
+Bakeries,Bakery
+Banks & Credit Unions,Credit_union
+Barbeque,Barbecue
+Barbers,Barber
+Bars,Bar
+Basque,Basque_cuisine
+Battery Stores,Retail
+Beauty & Spas,Beauty_salon
+Beauty & Spas,Spa
+Beer Bar,Bar
+Beer Bar,Beer
+Beer Gardens,Beer_garden
+"Beer, Wine & Spirits",Beer
+"Beer, Wine & Spirits",Distilled_beverage
+"Beer, Wine & Spirits",Wine
+Belgian,Belgian_cuisine
+Bikes,Bicycle
+Blow Dry/Out Services,Beauty_salon
+Blow Dry/Out Services,Hairdresser
+Body Shops,Automobile_repair_shop
+"Books, Mags, Music & Video",Bookselling
+"Books, Mags, Music & Video",Magazine
+"Books, Mags, Music & Video",Video_rental_shop
+Bookstores,Bookselling
+Boot Camps,Training_camp
+Botanical Gardens,Botanical_garden
+Bowling,Bowling
+Boxing,Boxing
+Brasseries,Brasserie
+Brazilian,Brazilian_cuisine
+Breakfast & Brunch,Breakfast
+Breakfast & Brunch,Brunch
+Breweries,Brewery
+Brewing Supplies,Brewing
+Brewing Supplies,Vendor
+Bridal,Bride
+British,British_cuisine
+Bubble Tea,Bubble_tea
+Buffets,Buffet
+Building Supplies,Building_material
+Buses,Bus
+Business Consulting,Business_consultant
+Cafes,Coffeehouse
+Cajun/Creole,Cajun_cuisine
+Cajun/Creole,Louisiana_Creole_cuisine
+Campgrounds,Campsite
+Canadian (New),Canadian_cuisine
+Candy Stores,Confectionery_store
+Cantonese,Cantonese_cuisine
+Car Dealers,Car_dealership
+Car Rental,Car_rental
+Car Stereo Installation,Vehicle_audio
+Car Wash,Car_wash
+Caribbean,Caribbean_cuisine
+Carpet Cleaning,Carpet_cleaning
+Casinos,Casino
+Caterers,Catering
+Champagne Bars,Bar
+Champagne Bars,Champagne
+Cheese Shops,Cheese
+Cheese Shops,Shopping
+Cheesesteaks,Cheesesteak
+Chicken Shop,Fried_chicken_restaurant
+Chicken Wings,Buffalo_wing
+Child Care & Day Care,Child_care
+Child Care & Day Care,Day_care
+Chinese,Chinese_cuisine
+Chiropractors,Chiropractic
+Chocolatiers & Shops,Chocolaterie
+Churches,Christian_Church
+Cinema,Movie_theater
+Climbing,Climbing
+Cocktail Bars,Bar
+Coffee & Tea,Coffea
+Coffee & Tea,Tea
+Coffee & Tea Supplies,Coffea
+Coffee & Tea Supplies,Tea
+Coffee Roasteries,Coffea
+Colleges & Universities,College
+Colleges & Universities,University
+Comedy Clubs,Comedy_club
+Comfort Food,Comfort_food
+Comic Books,Comic_book
+Commercial Truck Dealers,Truck
+Commercial Truck Repair,"Maintenance,_repair,_and_operations"
+Commercial Truck Repair,Truck
+Community Service/Non-Profit,Community_service
+Community Service/Non-Profit,Nonprofit_organization
+Computers,Computer
+Contractors,General_contractor
+Convenience Stores,Convenience_store
+Cosmetic Dentists,Cosmetic_dentistry
+Cosmetics & Beauty Supply,Cosmetics
+Cosmetology Schools,Cosmetology
+Cosmetology Schools,School
+Costumes,Costume
+Creperies,Crêpe
+Cuban,Cuban_cuisine
+Cupcakes,Cupcake
+Damage Restoration,Fabric_restoration
+Dance Clubs,Nightclub
+Dance Schools,Dance
+Dance Schools,School
+Day Spas,Day_spa
+Delicatessen,Delicatessen
+Delis,Delicatessen
+Dentists,Dentist
+Department Stores,Department_store
+Departments of Motor Vehicles,Department_of_Motor_Vehicles
+Dermatologists,Dermatology
+Desserts,Dessert
+Diagnostic Imaging,Medical_imaging
+Diagnostic Services,Medical_test
+Dim Sum,Dim_sum
+Diners,Diner
+Disc Golf,Disc_golf
+Discount Store,Discount_store
+Distilleries,Distilled_beverage
+Dive Bars,Dive_bar
+Doctors,Physician
+Dog Parks,Dog_park
+Do-It-Yourself Food,Do_it_yourself
+Do-It-Yourself Food,Food
+Donuts,Doughnut
+Drive-In Theater,Drive_in_theater
+Drugstores,Drugstore
+Dry Cleaning & Laundry,Dry_cleaning
+Dry Cleaning & Laundry,Laundry
+Ear Nose & Throat,Otorhinolaryngology
+Education,Education
+Educational Services,Education
+Electronics,Electronics
+Electronics Repair,Electronics
+Electronics Repair,"Maintenance,_repair,_and_operations"
+Emergency Rooms,Emergency_department
+Escape Games,Real_life_room_escape
+Ethiopian,Ethiopian_cuisine
+Event Planning & Services,Event_management
+Eyelash Service,Eyelash_extensions
+Eyewear & Opticians,Eyewear
+Eyewear & Opticians,Optician
+Fabric Stores,Retail
+Fabric Stores,Textile
+Family Practice,Family_medicine
+Farms,Farm
+Fashion,Fashion
+Fast Food,Fast_food
+Fences & Gates,Fence
+Fences & Gates,Gate
+Festivals,Festival
+Filipino,Philippine_cuisine
+Financial Advising,Financial_adviser
+Financial Services,Financial_services
+Fish & Chips,Fish_and_chips
+Fitness & Instruction,Fitness_professional
+Float Spa,Spa
+Flooring,Flooring
+Florists,Floristry
+Flowers & Gifts,Floristry
+Fondue,Fondue
+Food,Food
+Food Delivery Services,Food
+Food Stands,Food_booth
+Food Tours,Culinary_tourism
+Food Trucks,Food_truck
+French,French_cuisine
+Fruits & Veggies,Fruit
+Fruits & Veggies,Vegetable
+Furniture Reupholstery,Furniture
+Furniture Stores,Furniture
+Furniture Stores,Retail
+Gas & Service Stations,Filling_station
+Gastropubs,Gastropub
+Gelato,Gelato
+General Dentistry,Dentistry
+German,German_cuisine
+Gift Shops,Gift_shop
+Gluten-Free,Gluten_free_diet
+Gold Buyers,Jewellery
+Golf,Golf
+Graphic Design,Graphic_design
+Greek,Greek_cuisine
+Grocery,Grocery_store
+Guitar Stores,Guitar
+Guitar Stores,Retail
+Gun/Rifle Ranges,Shooting_range
+Guns & Ammo,Ammunition
+Guns & Ammo,Gun
+Gyms,Gym
+Hair Extensions,Artificial_hair_integrations
+Hair Removal,Hair_removal
+Hair Salons,Beauty_salon
+Hair Salons,Hairdresser
+Hair Stylists,Hairdresser
+Halal,Halal
+Hardware Stores,Hardware_store
+Hawaiian,Cuisine_of_Hawaii
+Health & Medical,Health_facility
+Health Markets,Health_food_store
+Health Retreats,Wellness_tourism
+Heating & Air Conditioning/HVAC,HVAC
+Herbs & Spices,Herb
+Herbs & Spices,Spice
+Hiking,Hiking
+Hobby Shops,Hobby_shop
+Home & Garden,Back_garden
+Home Cleaning,Housekeeping
+Home Decor,Home_accessories
+Home Services,Home_improvement
+Hookah Bars,Hookah_lounge
+Hospitals,Hospital
+Hot Dogs,Hot_dog
+Hot Pot,Hot_pot
+Hot Tub & Pool,Swimming_pool
+Hotel bar,Bar
+Hotel bar,Hotel
+Hotels,Hotel
+Hotels & Travel,Hotel
+Hotels & Travel,Travel
+Ice Cream & Frozen Yogurt,Frozen_yogurt
+Ice Cream & Frozen Yogurt,Ice_cream
+Indian,Indian_cuisine
+Internet Cafes,Internet_café
+Internet Service Providers,Internet_service_provider
+Irish,Irish_cuisine
+Irish Pub,Irish_pub
+IT Services & Computer Repair,Computer_repair_technician
+Italian,Italian_cuisine
+Japanese,Japanese_cuisine
+Jazz & Blues,Blues
+Jazz & Blues,Jazz
+Jewelry,Jewellery
+Jewelry Repair,Bench_jeweler
+Juice Bars & Smoothies,Juice
+Juice Bars & Smoothies,Smoothie
+Karaoke,Karaoke
+Keys & Locksmiths,Key_(lock)
+Keys & Locksmiths,Lock_(security_device)
+Kids Activities,After_school_activity
+Kids Activities,Play_(activity)
+Kitchen & Bath,Bathroom
+Kitchen & Bath,Kitchen
+Knitting Supplies,Knitting
+Korean,Korean_cuisine
+Lakes,Lake
+Landmarks & Historical Buildings,Landmark
+Landmarks & Historical Buildings,Monument
+Landscape Architects,Landscape_architecture
+Landscaping,Landscaping
+Laser Eye Surgery/Lasik,LASIK
+Laser Hair Removal,Laser_hair_removal
+Laser Tag,Laser_tag
+Latin American,Latin_American_cuisine
+Lawyers,Lawyer
+Leather Goods,Leather
+Lebanese,Lebanese_cuisine
+Libraries,Library
+Limos,Limousine
+Lingerie,Lingerie
+Live/Raw Food,Raw_foodism
+Local Fish Stores,Fish_market
+Lounges,Bar
+Macarons,Macaron
+Magicians,Magic_(illusion)
+Mailbox Centers,Mail_services_center
+Makeup Artists,Make_up_artist
+Malaysian,Malaysian_cuisine
+Martial Arts,Martial_arts
+Mass Media,Mass_media
+Massage,Massage
+Massage Schools,Massage
+Massage Schools,School
+Massage Therapy,Massage
+Massage Therapy,Therapy
+Maternity Wear,Maternity_clothing
+Mattresses,Mattress
+Meat Shops,Meat_market
+Medical Centers,Academic_health_science_centre
+Medical Centers,Clinic
+Medical Centers,Hospital
+Medical Spas,Medicine
+Medical Spas,Spa
+Mediterranean,Mediterranean_cuisine
+"Men""s Clothing",Clothing
+"Men""s Clothing",Man
+"Men""s Hair Salons",Hairdresser
+"Men""s Hair Salons",Man
+Mexican,Mexican_cuisine
+Middle Eastern,Middle_Eastern_cuisine
+Mini Golf,Miniature_golf
+Mobile Phone Repair,"Maintenance,_repair,_and_operations"
+Mobile Phone Repair,Mobile_phone
+Mobile Phones,Mobile_phone
+Modern European,European_cuisine
+Mongolian,Mongolian_cuisine
+Moroccan,Moroccan_cuisine
+Mortgage Brokers,Mortgage_broker
+Motorcycle Rental,Renting
+Motorcycle Repair,"Maintenance,_repair,_and_operations"
+Movers,Moving_company
+Museums,Museum
+Music & DVDs,DVD
+Music & DVDs,Music
+Music Venues,Music_venue
+Musical Instrument Services,Musical_instrument
+Musical Instruments & Teachers,Music_education
+Musical Instruments & Teachers,Musical_instrument
+Musicians,Musician
+Nail Salons,Nail_salon
+Nanny Services,Nanny
+Naturopathic/Holistic,Naturopathy
+New Mexican Cuisine,New_Mexican_cuisine
+Newspapers & Magazines,Magazine
+Newspapers & Magazines,Newspaper
+Nightlife,Nightlife
+Noodles,Noodle
+Notaries,Notary_public
+Nurseries & Gardening,Plant_nursery
+Nutritionists,Nutritionist
+Obstetricians & Gynecologists,Obstetrics_and_gynaecology
+Office Equipment,Office_supplies
+Oil Change Stations,Motor_oil
+Ophthalmologists,Ophthalmology
+Optometrists,Optometry
+Oral Surgeons,Oral_and_maxillofacial_surgery
+Organic Stores,Organic_food
+Orthodontists,Orthodontics
+Orthopedists,Orthopedic_surgery
+Outlet Stores,Outlet_store
+Paint Stores,Retail
+Paintball,Paintball
+Pakistani,Pakistani_cuisine
+Parks,Park
+Party & Event Planning,Event_management
+Party & Event Planning,Party
+Party Equipment Rentals,Party
+Pawn Shops,Pawnbroker
+Pediatric Dentists,Pediatric_dentistry
+Pediatricians,Pediatrics
+Performing Arts,Performing_arts
+Persian/Iranian,Iranian_cuisine
+Peruvian,Peruvian_cuisine
+Pest Control,Pest_control
+Pet Adoption,Pet_adoption
+Pet Boarding/Pet Sitting,Pet_sitting
+Pet Groomers,Dog_grooming
+Pet Services,Pet
+Pet Stores,Pet_store
+Pet Training,Animal_training
+Pets,Pet
+Photography Stores & Services,Photography
+Photography Stores & Services,Retail
+Physical Therapy,Physical_therapy
+Piano Bars,Piano_bar
+Pick Your Own Farms,U_Pick_and_Pick_Your_Own_(PYO)_Farms
+Piercing,Body_piercing
+Pilates,Pilates
+Pizza,Pizza
+Playgrounds,Playground
+Plumbing,Plumbing
+Poke,Poke_(fish_salad)
+Polish,Polish_cuisine
+Pool & Hot Tub Service,Swimming_pool
+Popcorn Shops,Popcorn
+Portuguese,Portuguese_cuisine
+Post Offices,Post_office
+Poutineries,Poutine
+Preschools,Preschool
+Pretzels,Pretzel
+Print Media,Printing
+Printing Services,Printing
+Professional Services,Professional_services
+Professional Sports Teams,Professional_sports
+Professional Sports Teams,Team_sport
+Property Management,Property_manager
+Public Services & Government,Government
+Public Services & Government,Public_service
+Public Transportation,Public_transport
+Pubs,Pub
+Ramen,Ramen
+Real Estate,Real_estate
+Real Estate Services,Real_estate
+Recreation Centers,Recreation
+Reflexology,Reflexology
+Reiki,Reiki
+Religious Organizations,Religious_organization
+Resorts,Resort
+Restaurants,Restaurant
+Rock Climbing,Rock_climbing
+Roofing,Roofer
+Russian,Russian_cuisine
+RV Parks,RV_park
+RV Repair,"Maintenance,_repair,_and_operations"
+Salad,Salad
+Sandwiches,Sandwich
+Saunas,Sauna
+Scandinavian,Cuisine
+Seafood,Seafood
+Seafood Markets,Fish_market
+Security Systems,Home_security
+Self Storage,Self_storage
+Shared Office Spaces,Coworking
+Shaved Ice,Shave_ice
+Shipping Centers,Distribution_center
+Shoe Repair,"Maintenance,_repair,_and_operations"
+Shoe Repair,Shoe
+Shoe Stores,Shoe_store
+Shopping,Shopping
+Shopping Centers,Shopping_mall
+Skating Rinks,Ice_rink
+Skin Care,Skin_care
+Skydiving,Parachuting
+Smog Check Stations,Vehicle_emissions_control
+Soccer,Association_football
+Soul Food,Soul_food
+Soup,Soup
+Southern,Cuisine_of_the_Southern_United_States
+Souvenir Shops,Gift_shop
+Spanish,Spanish_cuisine
+Specialty Food,Specialty_foods
+Specialty Schools,Magnet_school
+Sporting Goods,Sports_equipment
+Sports Bars,Bar
+Sports Bars,Sport
+Sports Clubs,Sports_club
+Sports Medicine,Sports_medicine
+Sports Wear,Sportswear_(activewear)
+Spray Tanning,Sunless_tanning
+Stadiums & Arenas,Arena
+Stadiums & Arenas,Stadium
+Steakhouses,Steakhouse
+Street Vendors,Street_food
+Summer Camps,Summer_camp
+Sushi Bars,Bar
+Sushi Bars,Sushi
+Swimming Lessons/Schools,Swimming_lessons
+Swimming Pools,Swimming_pool
+Szechuan,Sichuan_cuisine
+Taiwanese,Taiwanese_cuisine
+Tanning,Sunless_tanning
+Tapas Bars,Bar
+Tapas Bars,Tapas
+Tapas/Small Plates,Small_plates
+Tapas/Small Plates,Tapas
+Tattoo,Tattoo
+Tax Services,Tax_preparation
+Taxis,Taxicab
+Tea Rooms,Tea_house
+Teeth Whitening,Tooth_whitening
+Television Service Providers,Cable_television
+Teppanyaki,Teppanyaki
+Tex-Mex,Tex_Mex
+Thai,Thai_cuisine
+Threading Services,Threading_(epilation)
+Thrift Stores,Charity_shop
+Ticket Sales,Ticket_resale
+Tires,Tire
+Tobacco Shops,Tobacconist
+Tours,Tour_operator
+Towing,Towing
+Toy Stores,Toy_store
+Train Stations,Train_station
+Trainers,Personal_trainer
+Trains,Train
+Transmission Repair,"Maintenance,_repair,_and_operations"
+Transmission Repair,Transmission_(mechanics)
+Transportation,Transport
+Travel Services,Travel
+Tree Services,Arborist
+Truck Rental,Renting
+Truck Rental,Truck
+Tuscan,Cuisine
+Tuscan,Tuscany
+Urgent Care,Urgent_care
+"Used, Vintage & Consignment",Consignment
+"Used, Vintage & Consignment",Used_good
+"Used, Vintage & Consignment",Vintage_clothing
+Vacation Rentals,Vacation_rental
+Vegan,Veganism
+Vegetarian,Vegetarianism
+Venezuelan,Venezuelan_cuisine
+Venues & Event Spaces,Event_management
+Veterinarians,Veterinary_physician
+Videos & Video Game Rental,Video_rental_shop
+Vietnamese,Vietnamese_cuisine
+Vinyl Records,Gramophone_record
+Waffles,Waffle
+Watch Repair,Watchmaker
+Watches,Watch
+Water Heater Installation/Repair,"Maintenance,_repair,_and_operations"
+Waxing,Waxing
+Web Design,Web_design
+Wedding Chapels,Wedding_chapel
+Wedding Planning,Wedding_planner
+Weight Loss Centers,Weight_loss
+Wheel & Rim Repair,"Maintenance,_repair,_and_operations"
+Wheel & Rim Repair,Rim_(wheel)
+Wheel & Rim Repair,Wheel
+Whiskey Bars,Bar
+Whiskey Bars,Whisky
+Wholesale Stores,Wholesale
+Wigs,Wig
+Window Washing,Window_cleaner
+Windshield Installation & Repair,"Maintenance,_repair,_and_operations"
+Windshield Installation & Repair,Windshield
+Wine Bars,Wine_bar
+Wineries,Winery
+"Women""s Clothing",Clothing
+"Women""s Clothing",Woman
+Yoga,Yoga
+Zoos,Zoo
